@@ -21,8 +21,11 @@ Player 1:
 Player 2:
 
   Move Paddle Up: 'Up'
+  
   Move Paddle Down: 'Down'
   
  Speed Up Ball: '1' and 'Z' simultaneously 
  
  __(Only use when ball gets stuck with low horizontal velocity)__
+
+Enjoy!
