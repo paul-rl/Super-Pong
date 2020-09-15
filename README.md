@@ -10,3 +10,19 @@ The game works exactly like Pong, the goal is to score the ball into the opponen
 an added line of defense in the form of 16 breakable bricks. When the ball hits these bricks, they disappear, and thus the player must be careful to protect the bricks.
 
 ![Super Pong Gameplay](./gameplay.PNG)
+
+**CONTROLS:**
+
+Player 1:
+
+  Move Paddle Up: 'W'  
+  Move Paddle Down: 'S'
+  
+Player 2:
+
+  Move Paddle Up: 'Up'
+  Move Paddle Down: 'Down'
+  
+ Speed Up Ball: '1' and 'Z' simultaneously 
+ 
+ __(Only use when ball gets stuck with low horizontal velocity)__
